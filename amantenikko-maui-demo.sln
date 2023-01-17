@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phoneword", "Phoneword\Phon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes", "Notes\Notes.csproj", "{3763E198-39E6-4D65-8498-02E9DA8CC6AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alignment", "Alignment\Alignment.csproj", "{7EF40988-B235-42CC-B8DD-776D9BE10C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alignment", "Alignment\Alignment.csproj", "{7EF40988-B235-42CC-B8DD-776D9BE10C42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalculator", "TipCalculator\TipCalculator.csproj", "{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalculator2", "TipCalculator2\TipCalculator2.csproj", "{ADC801AE-3DDC-41D4-87A7-68020614709F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator3", "TipCalculator3\TipCalculator3.csproj", "{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,24 @@ Global
 		{7EF40988-B235-42CC-B8DD-776D9BE10C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EF40988-B235-42CC-B8DD-776D9BE10C42}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7EF40988-B235-42CC-B8DD-776D9BE10C42}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CB5E59-995A-4290-AAAC-9BE0F20D5595}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC801AE-3DDC-41D4-87A7-68020614709F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DA93FC-2A82-4E46-86CB-21580A77BA1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
